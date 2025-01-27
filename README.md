@@ -1,5 +1,10 @@
 ## Hi there 👋, I'm Minyoung, Kim
 
+### 🌟 **About Me**  
+- 🎓 I am a passionate undergraduate researcher at Korea University, majoring in Computer Science.  
+- 💡 I love exploring cutting-edge technologies like **LLM**, **Digital Watermarking**, and **Multimodal Learning**.  
+- 🌱 Currently, I'm diving deeper into **Multimodal LLM** and **Watermarking for Generative Model**.
+
 ## 🥰 Interest
 - **Digital Watermarking**
 - **MultiModal LLM**
@@ -63,6 +68,11 @@ Not Yet... T.T
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/minyoung-kim-b40349276)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omniverse186@korea.ac.kr)
+
 
 ## ✨ Problem Solving
 ![Baekjoon tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=omniverse186)
