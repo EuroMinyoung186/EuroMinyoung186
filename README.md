@@ -57,11 +57,11 @@
 
 ## 📝 Publications
 **Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries** 🔗 [Project Page](https://eurominyoung186.github.io/CMW_SAVF/) 
-**Authors:** Minyoung Kim, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo  
+**Authors:** **Minyoung Kim**, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo  
 
 
 **ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision** 🔗 [Project Page](https://leeds1219.github.io/ReSCORE/) 
-**Authors:** Dosung Lee\*, Wonjun Oh\*, Boyoung Kim, Minyoung Kim, Joonsuk Park†, Paul Hongsuck Seo†  
+**Authors:** Dosung Lee\*, Wonjun Oh\*, Boyoung Kim, **Minyoung Kim**, Joonsuk Park†, Paul Hongsuck Seo†  
 (\* equal contribution, † corresponding author)
 
 
