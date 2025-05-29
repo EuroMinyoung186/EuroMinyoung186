@@ -56,9 +56,17 @@
 
 
 ## 📝 Publications
-Not Yet... T.T
+**Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries**  
+**Authors:** Minyoung Kim, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo  
+🔗 [Project Page](https://eurominyoung186.github.io/CMW_SAVF/) 
 
-## 🛠️ Skills
+**ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision**  
+**Authors:** Dosung Lee\*, Wonjun Oh\*, Boyoung Kim, Minyoung Kim, Joonsuk Park†, Paul Hongsuck Seo†  
+(\* equal contribution, † corresponding author)
+🔗 [Project Page](https://leeds1219.github.io/ReSCORE/)
+
+
+## 🛠️ Skills 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
