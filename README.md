@@ -16,7 +16,10 @@
 
 
 ## 🧑‍🔬 Research Experience
-[2024.08.01 ~ Present]
+[2024.03 ~ Present]
+**Undergraduate Researcher, ALIN-LAB (Algorithmic Intelligence Laboratory), KAIST**
+
+[2024.08 ~ 2026.02]
 **Undergraduate Researcher, MIIL (Multimodal Interactive Intelligence Laboratory), Korea University**
 
 
@@ -56,6 +59,9 @@
 
 
 ## 📝 Publications
+**Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling** 🔗 [Project Page](https://eurominyoung186.github.io/ReImage/) 
+**Authors:** **Minyoung Kim**, Paul Hongsuck Seo  
+
 **Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries** 🔗 [Project Page](https://eurominyoung186.github.io/CMW_SAVF/) 
 **Authors:** **Minyoung Kim**, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo  
 
