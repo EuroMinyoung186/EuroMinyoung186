@@ -59,8 +59,7 @@
 
 
 ## 📝 Publications
-**Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling** 🔗 [Project Page](https://eurominyoung186.github.io/ReImage/) 
-
+**Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling** 🔗 [Project Page](https://eurominyoung186.github.io/ReImage/)
 **Authors:** **Minyoung Kim**, Paul Hongsuck Seo  
 
 **Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries** 🔗 [Project Page](https://eurominyoung186.github.io/CMW_SAVF/) 
